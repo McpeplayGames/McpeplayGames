@@ -1,10 +1,8 @@
 # McpeplayGames
 The Mcpeplay Games Minecraft Server!
 
-![Discord Server](https://discord.io/mcpp/badge)](https://discord.com/invite/mQquEJcqmK)
 
-
-
+[![Discord Server](https://discord.io/mcpp/badge)](https://discord.com/invite/mQquEJcqmK)
 
 
 
