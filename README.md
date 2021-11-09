@@ -1,21 +1,5 @@
-# McpeplayGames
+# Mcpeplay Games
 The Mcpeplay Games Minecraft Server!
 
-Hmm
-
+Social Media
 [Discord](https://dsc.gg/mcpp)
-
-
-
-
-
-
-
-
-
-
-
-
-
-# LICENSE
-[Read License Here!](https://github.com/McpeplayGames/McpeplayGames/blob/main/LICENSE.md)
