@@ -2,4 +2,4 @@
 The Mcpeplay Games Minecraft Server!
 
 Social Media
-[Discord](https://dsc.gg/mcpp)
+* [Discord](https://dsc.gg/mcpp)
