@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG] <Untitled Bug>"
-labels: ''
+labels: bug
 assignees: ''
 
 ---
@@ -27,7 +27,7 @@ If applicable, add screenshots to help explain your problem.
 IGN: 
 Mcpeplay Account ID: 
 Minigame (if none type none): 
-Server release type: beta
+Server release type: alpha
 
 
 # **Additional context**
